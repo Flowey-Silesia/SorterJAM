@@ -1,0 +1,891 @@
+[
+    {
+        "id": 1,
+        "anime": "eX-Driver OP",
+        "name": "\"Kaze ni Nare\" by JAM Project Featuring Rica Matsumoto & Hironobu Kageyama",
+        "video": "https://naedist.animemusicquiz.com/41ezwu.webm",
+        "mp3": "https://naedist.animemusicquiz.com/16asdy.mp3"
+    },
+    {
+        "id": 2,
+        "anime": "eX-Driver EP 2 Insert Song",
+        "name": "\"CRAZY REVOLUTION\" by JAM Project Featuring Rica Matsumoto & Hironobu Kageyama",
+        "video": "https://naedist.animemusicquiz.com/zd8ooi.webm",
+        "mp3": "https://naedist.animemusicquiz.com/83q6ro.mp3"
+    },
+    {
+        "id": 3,
+        "anime": "Shin Getter Robo tai Neo Getter Robo OP",
+        "name": "\"STORM\" by JAM Project featuring Ichiro Mizuki & Hironobu Kageyama",
+        "video": "https://naedist.animemusicquiz.com/p1pivv.webm",
+        "mp3": "https://naedist.animemusicquiz.com/suv4wb.mp3"
+    },
+    {
+        "id": 4,
+        "anime": "Shin Getter Robo tai Neo Getter Robo ED",
+        "name": "\"RISING\" by JAM Project featuring Ichiro Mizuki & Hironobu Kageyama",
+        "video": "https://naedist.animemusicquiz.com/3iuimf.webm",
+        "mp3": "https://naedist.animemusicquiz.com/oj6fzj.mp3"
+    },
+    {
+        "id": 5,
+        "anime": "Super Robot Taisen Alpha Gaiden OP",
+        "name": "\"Hagane no Messiah\" by JAM Project",
+        "video": "https://files.catbox.moe/3wz1nv.webm",
+        "mp3": "https://files.catbox.moe/3iefhy.mp3"
+    },
+    {
+        "id": 6,
+        "anime": "Super Robot Taisen Alpha Gaiden ED",
+        "name": "\"POWER\" by JAM Project",
+        "video": "https://files.catbox.moe/is950e.webm",
+        "mp3": "https://files.catbox.moe/qzmana.mp3"
+    },
+    {
+        "id": 7,
+        "anime": "The SoulTaker OP",
+        "name": "\"SOULTAKER\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/xjyen1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/l9vk1v.mp3"
+    },
+    {
+        "id": 8,
+        "anime": "Mazinkaiser OP",
+        "name": "\"FIRE WARS\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/7af0g8.webm",
+        "mp3": "https://naedist.animemusicquiz.com/t1ike1.mp3"
+    },
+    {
+        "id": 9,
+        "anime": "Mazinkaiser ED",
+        "name": "\"TORNADO\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/zg7cu4.webm",
+        "mp3": "https://naedist.animemusicquiz.com/xa9ux5.mp3"
+    },
+	{
+        "id": 10,
+        "anime": "Gekitou! Crush Gear Turbo OP",
+        "name": "\"CRUSH GEAR FIGHT!!\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/tmwtli.webm",
+        "mp3": "https://naedist.animemusicquiz.com/8ts1qk.mp3"
+    },
+    {
+        "id": 11,
+        "anime": "Gekitou! Crush Gear Turbo ED",
+        "name": "\"Ai da yo ne!! ~Gear o Tsunagou~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/d38cgh.webm",
+        "mp3": "https://naedist.animemusicquiz.com/r1qtsi.mp3"
+    },
+	{
+        "id": 12,
+        "anime": "Gekitou! Crush Gear Turbo EP 20 Insert Song",
+        "name": "\"Kaze no EAGLE\" by JAM Project feat. Hironobu Kageyama",
+        "video": "https://naedist.animemusicquiz.com/oytfkp.webm",
+        "mp3": "https://naedist.animemusicquiz.com/l2eoza.mp3"
+    },
+	{
+        "id": 13,
+        "anime": "SUNRISE Eiyuutan 2 OP",
+        "name": "\"LADY FIGHTER!\" by JAM Project featuring Rica Matsumoto",
+        "video": "https://files.catbox.moe/mfx9bs.webm",
+        "mp3": "https://files.catbox.moe/7w5bdk.mp3"
+    },
+	{
+        "id": 14,
+        "anime": "SUNRISE Eiyuutan 2 ED",
+        "name": "\"Unmei no Ito\" by JAM Project featuring Rica Matsumoto",
+        "video": "https://files.catbox.moe/yhr4u0.webm",
+        "mp3": "https://files.catbox.moe/tc5oka.mp3"
+    },
+	{
+        "id": 15,
+        "anime": "Super Robot Taisen Impact OP",
+        "name": "\"GO!!\" by JAM Project",
+        "video": "https://files.catbox.moe/t429dy.webm",
+        "mp3": "https://files.catbox.moe/2qb3cg.mp3"
+    },
+	{
+        "id": 16,
+        "anime": "Super Robot Taisen Impact ED",
+        "name": "\"DEPARTURE\" by JAM Project",
+        "video": "https://files.catbox.moe/g7jt8b.webm",
+        "mp3": "https://files.catbox.moe/vvkmip.mp3"
+    },
+	{
+        "id": 17,
+        "anime": "Gekitou! Crush Gear Turbo: Kaiservern no Chousen ED",
+        "name": "\"ALright now!\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/33ltid.webm",
+        "mp3": "https://naedist.animemusicquiz.com/pcej5p.mp3"
+    },
+	{
+        "id": 18,
+        "anime": "Gekitou! Crush Gear Turbo: Kaiservern no Chousen Insert Song",
+        "name": "\"GET UP CRUSH FIGHTER!\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/71p9a7.webm",
+        "mp3": "https://naedist.animemusicquiz.com/cq0wic.mp3"
+    },
+	{
+        "id": 19,
+        "anime": "Choujuushin Gravion OP",
+        "name": "\"Nageki no Rosario\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/dykqxj.webm",
+        "mp3": "https://naedist.animemusicquiz.com/8yxj5v.mp3"
+    },
+	{
+        "id": 20,
+        "anime": "Choujuushin Gravion EP 1 Insert Song",
+        "name": "\"Gasshin! God Gravion!!!\" by JAM Project feat. Masaaki Endoh",
+        "video": "https://naedist.animemusicquiz.com/ik8vlk.webm",
+        "mp3": "https://naedist.animemusicquiz.com/4z3j37.mp3"
+    },
+	{
+        "id": 21,
+        "anime": "Kikou Busou G-Breaker Legend of Cloudia OP",
+        "name": "\"Over The Top!\" by JAM Project featuring Eizou Sakamoto, Masaaki Endoh & Hironobu Kageyama",
+        "video": "https://files.catbox.moe/hxn12y.webm",
+        "mp3": "https://files.catbox.moe/71g9i1.mp3"
+    },
+	{
+        "id": 22,
+        "anime": "Kikou Busou G-Breaker Legend of Cloudia ED",
+        "name": "\"In My Heart\" by JAM Project featuring Eizou Sakamoto, Masaaki Endoh & Hironobu Kageyama",
+        "video": "https://files.catbox.moe/y0zntd.webm",
+        "mp3": "https://files.catbox.moe/9v9paa.mp3"
+    },
+	{
+        "id": 23,
+        "anime": "Super Robot Taisen Alpha II OP",
+        "name": "\"SKILL\" by JAM Project",
+        "video": "https://files.catbox.moe/8cmdvj.webm",
+        "mp3": "https://files.catbox.moe/zvqu7w.mp3"
+    },
+	{
+        "id": 24,
+        "anime": "Super Robot Taisen Alpha II ED",
+        "name": "\"FOREVER & EVER\" by JAM Project",
+        "video": "https://files.catbox.moe/knbezs.webm",
+        "mp3": "https://files.catbox.moe/84mt5k.mp3"
+    },
+	{
+        "id": 25,
+        "anime": "Scrapped Princess OP",
+        "name": "\"Little Wing\" by JAM Project featuring Masami Okui",
+        "video": "https://naedist.animemusicquiz.com/dmpcwz.webm",
+        "mp3": "https://naedist.animemusicquiz.com/1wcppb.mp3"
+    },
+	{
+        "id": 26,
+        "anime": "Galaxy Angel A ED 3",
+        "name": "\"In the Chaos\" by JAM Project featuring Masami Okui",
+        "video": "https://naedist.animemusicquiz.com/zqpwam.webm",
+        "mp3": "https://naedist.animemusicquiz.com/6e4gmp.mp3"
+    },
+	{
+        "id": 27,
+        "anime": "Shutsugeki! Machine Robo Rescue OP",
+        "name": "\"GO!GO! Rescue\" by JAM Project",	
+        "video": "https://naedist.animemusicquiz.com/cqy4hr.webm",
+        "mp3": "https://naedist.animemusicquiz.com/p70qo3.mp3"
+    },
+	{
+        "id": 28,
+        "anime": "Shutsugeki! Machine Robo Rescue ED",
+        "name": "\"March of Rescue Hero\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/sweash.webm",
+        "mp3": "https://naedist.animemusicquiz.com/sgip8c.mp3"
+    },
+	{
+        "id": 29,
+        "anime": "Mazinkaiser: Shitou! Ankoku Daishougun OP",
+        "name": "\"The Gate of the Hell\" by JAM Project featuring Yoshiki Fukuyama",
+        "video": "https://naedist.animemusicquiz.com/drrl2i.webm",
+        "mp3": "https://naedist.animemusicquiz.com/l3ct1i.mp3"
+    },
+	{
+        "id": 30,
+        "anime": " Mazinkaiser: Shitou! Ankoku Daishougun ED",
+        "name": "\"Senshi yo Nemure...\" by JAM Project featuring Yoshiki Fukuyama",
+        "video": "https://naedist.animemusicquiz.com/imtqyl.webm",
+        "mp3": "https://naedist.animemusicquiz.com/29xeku.mp3"
+    },
+	{
+        "id": 31,
+        "anime": " Mazinkaiser: Shitou! Ankoku Daishougun Insert Song",
+        "name": "\"Majin Kenzan!!\" by JAM Project featuring Masaaki Endoh",
+        "video": "https://naedist.animemusicquiz.com/akhjcf.webm",
+        "mp3": "https://naedist.animemusicquiz.com/esr85n.mp3"
+    },
+	{
+        "id": 32,
+        "anime": "Sunrise World War OP",
+        "name": "\"Destination\" by JAM Project featuring Rica Matsumoto",
+        "video": "https://files.catbox.moe/6d7yz0.webm",
+        "mp3": "https://files.catbox.moe/g4xvbt.mp3"
+    },
+	{
+        "id": 33,
+        "anime": "Sunrise World War ED",
+        "name": "\"Promise ~Mirai e no Chikai~\" by JAM Project featuring Rica Matsumoto",
+        "video": "https://files.catbox.moe/ib3txq.webm",
+        "mp3": "https://files.catbox.moe/tle2lg.mp3"
+    },
+	{
+        "id": 34,
+        "anime": "Choujuushin Gravion Zwei OP",
+        "name": "\"Kurenai no Kiba\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/k4gvy5.webm",
+        "mp3": "https://naedist.animemusicquiz.com/fkaidi.mp3"
+    },
+	{
+        "id": 35,
+        "anime": "Choujuushin Gravion Zwei EP 11 Insert Song",
+        "name": "\"Enou Gasshin! Sol Gravion!!!!\" by JAM Project feat. Yoshiki Fukuyama",
+        "video": "https://naedist.animemusicquiz.com/88y4vf.webm",
+        "mp3": "https://naedist.animemusicquiz.com/pdfz7x.mp3"
+    },
+	{
+        "id": 36,
+        "anime": "Super Robot Taisen MX OP",
+        "name": "\"VICTORY\" by JAM Project",
+        "video": "https://files.catbox.moe/3xnhnc.webm",
+        "mp3": "https://files.catbox.moe/ecy9ey.mp3"
+    },
+	{
+        "id": 37,
+        "anime": "Super Robot Taisen MX ED",
+        "name": "\"Yakusoku no Chi\" by JAM Project",
+        "video": "https://files.catbox.moe/yyxq5n.webm",
+        "mp3": "https://files.catbox.moe/8j622g.mp3"
+    },
+	{
+        "id": 38,
+        "anime": "Shin Getter Robo OP",
+        "name": "\"DRAGON\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/ve78wu.webm",
+        "mp3": "https://naedist.animemusicquiz.com/jy4rgw.mp3"
+    },
+	{
+        "id": 39,
+        "anime": "Shin Getter Robo ED",
+        "name": "\"No Serenity\" by JAM Project featuring Hironobu Kageyama・Masaaki Endoh・Yoshiki Fukuyama",
+        "video": "https://naedist.animemusicquiz.com/e2he6p.webm",
+        "mp3": "https://naedist.animemusicquiz.com/nzmtib.mp3"
+    },
+	{
+        "id": 40,
+        "anime": "Panda-Z OP",
+        "name": "\"VOYAGER\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/v7u85s.webm",
+        "mp3": "https://naedist.animemusicquiz.com/0359ol.mp3"
+    },
+	{
+        "id": 41,
+        "anime": "Yu-Gi-Oh! Duel Monsters GX ED 1",
+        "name": "\"Genkai Battle\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/5jbzt6.webm",
+        "mp3": "https://naedist.animemusicquiz.com/3qaqzx.mp3"
+    },
+	{
+        "id": 42,
+        "anime": "Muv-Luv Alternative OP",
+        "name": "\"Asu e no Houkou\" by JAM Project",
+        "video": "https://erogemusicquiz.com/selfhoststorage/catbox/0corxi.webm",
+        "mp3": "https://erogemusicquiz.com/selfhoststorage/catbox/ypvb3h.mp3"
+    },
+	{
+        "id": 43,
+        "anime": "Zettai Shounen EP 11 Insert Song",
+        "name": "\"Danger Zone\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/b6qa5a.webm",
+        "mp3": "https://naedist.animemusicquiz.com/0te2ai.mp3"
+    },
+	{
+        "id": 44,
+        "anime": "Super Robot Taisen Original Generation: The Animation OP",
+        "name": "\"Meikyuu no Prisoner\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/lnn35l.webm",
+        "mp3": "https://naedist.animemusicquiz.com/s78v4m.mp3"
+    },
+	{
+        "id": 45,
+        "anime": " Super Robot Taisen Original Generation: The Animation ED 1",
+        "name": "\"Protect You\" by JAM Project feat. Masaaki Endoh/Masami Okui",
+        "video": "https://naedist.animemusicquiz.com/64fk4d.webm",
+        "mp3": "https://naedist.animemusicquiz.com/utpc8u.mp3"
+    },
+	{
+        "id": 46,
+        "anime": "Super Robot Taisen Original Generation: The Animation ED 2",
+        "name": "\"Name of the Truth\" by JAM Project featuring Rica Matsumoto/Hiroshi Kitadani",
+        "video": "https://naedist.animemusicquiz.com/7cbnd7.webm",
+        "mp3": "https://naedist.animemusicquiz.com/rjom59.mp3"
+    },
+	{
+        "id": 47,
+        "anime": "Super Robot Taisen Original Generation: The Animation ED 3",
+        "name": "\"Hoshizora no Requiem\" by JAM Project featuring Hironobu Kageyama/Yoshiki Fukuyama",
+        "video": "https://naedist.animemusicquiz.com/i9o4xk.webm",
+        "mp3": "https://naedist.animemusicquiz.com/hvlkt3.mp3"
+    },
+	{
+        "id": 48,
+        "anime": "Super Robot Taisen Original Generation: The Animation EP 2 Insert Song",
+        "name": "\"Neppuu! Shippuu! Cybuster\" by JAM Project featuring Hironobu Kageyama/Yoshiki Fukuyama/Masaaki Endoh/Hiroshi Kitadani/Ricardo Cruz",
+        "video": "https://naedist.animemusicquiz.com/vxy1hm.webm",
+        "mp3": "https://naedist.animemusicquiz.com/doxvb8.mp3"
+    },
+	{
+        "id": 49,
+        "anime": "Super Robot Taisen Alpha III OP",
+        "name": "\"GONG\" by JAM Project",
+        "video": "https://files.catbox.moe/q83y5l.webm",
+        "mp3": "https://files.catbox.moe/tw846o.mp3"
+    },
+	{
+        "id": 50,
+        "anime": "Super Robot Taisen Alpha III ED",
+        "name": "\"Brother in Faith\" by JAM Project",
+        "video": "https://files.catbox.moe/v7tzcr.webm",
+        "mp3": "https://files.catbox.moe/pm18mt.mp3"
+    },
+	{
+        "id": 51,
+        "anime": "Yomigaeru Sora: Rescue Wings ED 1",
+        "name": "\"Emblem ~Na mo Naki Eiyuu-tachi e~\" by JAM Project (Hironobu Kageyama)",
+        "video": "https://naedist.animemusicquiz.com/n4x6su.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ixwhmw.mp3"
+    },
+	{
+        "id": 52,
+        "anime": "Yomigaeru Sora: Rescue Wings EP 4 Insert Song",
+        "name": "\"CLOWN\" by JAM Project (Masaaki Endoh)",
+        "video": "https://naedist.animemusicquiz.com/9ijdb1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/6nt4ag.mp3"
+    },
+	{
+        "id": 53,
+        "anime": "Yomigaeru Sora: Rescue Wings EP 9 Insert Song",
+        "name": "\"Aoku Nare\" by JAM Project (Yoshiki Fukuyama)",
+        "video": "https://naedist.animemusicquiz.com/mt6w85.webm",
+        "mp3": "https://naedist.animemusicquiz.com/vt7f92.mp3"
+    },
+	{
+        "id": 54,
+        "anime": "Super Robot Taisen OG: Divine Wars OP 1",
+        "name": "\"Break Out\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/d2zrxk.webm",
+        "mp3": "https://naedist.animemusicquiz.com/1l0i50.mp3"
+    },
+	{
+        "id": 55,
+        "anime": "Super Robot Taisen OG: Divine Wars OP 2",
+        "name": "\"RISING FORCE\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/k5mxk9.webm",
+        "mp3": "https://naedist.animemusicquiz.com/9k7aen.mp3"
+    },
+	{
+        "id": 56,
+        "anime": "Muv-Luv Alternative All ages ver. OP",
+        "name": "\"Name ~Kimi no Na wa~\" by JAM Project",
+        "video": "https://erogemusicquiz.com/selfhoststorage/catbox/0cjs0i.webm",
+        "mp3": "https://files.catbox.moe/kqhc1x.mp3"
+    },
+	{
+        "id": 57,
+        "anime": "Saint Beast: Kouin Jojishi Tenshi Tan OP",
+        "name": "\"Divine love\" by JAM Project featuring Hiroshi Kitadani",
+        "video": "https://naedist.animemusicquiz.com/1n5xbd.webm",
+        "mp3": "https://naedist.animemusicquiz.com/mf3gsi.mp3"
+    },
+	{
+        "id": 58,
+        "anime": "Saint Beast ~Rasen no Shou~ OP",
+        "name": "\"IN FATE\" by JAM Project featuring Hiroshi Kitadani",
+        "video": "https://erogemusicquiz.com/selfhoststorage/userup/5c779861-3340-4364-9525-2999f75adcc6.webm",
+        "mp3": "https://files.catbox.moe/34k3aq.mp3"
+    },
+	{
+        "id": 59,
+        "anime": "Koutetsushin Jeeg OP",
+        "name": "\"STORMBRINGER\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/yo6z3d.webm",
+        "mp3": "https://naedist.animemusicquiz.com/sff0ky.mp3"
+    },
+	{
+        "id": 60,
+        "anime": "Koutetsushin Jeeg EP 10 Insert Song",
+        "name": "\"Dead or Alive\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/wt36m6.webm",
+        "mp3": "https://naedist.animemusicquiz.com/hundhw.mp3"
+    },
+	{
+        "id": 61,
+        "anime": "Galaxy Angel II: Mugen Kairō no Kagi ED 9",
+        "name": "\"Salvage\" by JAM Project featuring Rica Matsumoto & Masami Okui",
+        "video": "https://files.catbox.moe/idcaxi.webm",
+        "mp3": "https://files.catbox.moe/0mhmho.mp3"
+    },
+	{
+        "id": 62,
+        "anime": "Super Robot Taisen OG Original Generations OP",
+        "name": "\"Rocks\" by JAM Project",
+        "video": "https://files.catbox.moe/y9sthx.webm",
+        "mp3": "https://files.catbox.moe/kopgc7.mp3"
+    },
+	{
+        "id": 63,
+        "anime": "Super Robot Taisen OG Original Generations ED",
+        "name": "\"Portal\" by JAM Project",
+        "video": "https://files.catbox.moe/6vamyd.webm",
+        "mp3": "https://files.catbox.moe/0jykir.mp3"
+    },
+	{
+        "id": 64,
+        "anime": "Super Robot Taisen Z OP",
+        "name": "\"Crest of 'Z's'\" by JAM Project",
+        "video": "https://files.catbox.moe/ctr1lh.webm",
+        "mp3": "https://files.catbox.moe/gdpiz3.mp3"
+    },
+	{
+        "id": 65,
+        "anime": "Super Robot Taisen Z ED",
+        "name": "\"Cosmic Dance\" by JAM Project",
+        "video": "https://files.catbox.moe/wzqvu2.webm",
+        "mp3": "https://files.catbox.moe/o3row1.mp3"
+    },
+	{
+        "id": 66,
+        "anime": "Keroro Gunsou OP 9",
+        "name": "\"Hello Darwin! ~Koukishin on Demand~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/z84fi4.webm",
+        "mp3": "https://naedist.animemusicquiz.com/d9y3ie.mp3"
+    },
+	{
+        "id": 67,
+        "anime": "Keroro Gunsou ED 16",
+        "name": "\"Hallelujah!!\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/rhxmzo.webm",
+        "mp3": "https://naedist.animemusicquiz.com/3po7w2.mp3"
+    },
+	{
+        "id": 68,
+        "anime": "Keroro Gunsou: Kero 0 Shuppatsu da yo! Zenin Shuugou! ED",
+        "name": "\"Space Roller Coaster GO GO!\" by JAM Project with NICE GIRLμ",
+        "video": "https://naedist.animemusicquiz.com/8kws84.webm",
+        "mp3": "https://naedist.animemusicquiz.com/fh5f3r.mp3"
+    },
+	{
+        "id": 69,
+        "anime": "Sora o Kakeru Shoujo EP 1 Insert Song",
+        "name": "\"MAJESTIC OVERTURE\" by Team sorakake '70 with JAM Project",
+        "video": "https://naedist.animemusicquiz.com/d9ieyh.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ueltiy.mp3"
+    },
+	{
+        "id": 70,
+        "anime": "Shin Mazinger Shougeki! Z-hen OP 1",
+        "name": "\"Kanjite Knight\" by ULTIMATE LAZY for MAZINGER",
+        "video": "https://naedist.animemusicquiz.com/2l7efc.webm",
+        "mp3": "https://naedist.animemusicquiz.com/x5tulr.mp3"
+    },
+	{
+        "id": 71,
+        "anime": "Shin Mazinger Shougeki! Z-hen OP 2",
+        "name": "\"Shugoshin -The guardian-\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/5jw6ql.webm",
+        "mp3": "https://naedist.animemusicquiz.com/8g2ngj.mp3"
+    },
+	{
+        "id": 72,
+        "anime": "Battle Spirits: Shounen Gekiha Dan OP",
+        "name": "\"Battle No Limit!\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/gvz5yx.webm",
+        "mp3": "https://naedist.animemusicquiz.com/r77fa5.mp3"
+    },
+	{
+        "id": 73,
+        "anime": "Super Robot Taisen OG: The Inspector OP 1",
+        "name": "\"MAXON\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/72wn0q.webm",
+        "mp3": "https://naedist.animemusicquiz.com/qdxw48.mp3"
+    },
+	{
+        "id": 74,
+        "anime": "Super Robot Taisen OG: The Inspector OP 2",
+        "name": "\"Ryuusei Lovers\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/fulmb9.webm",
+        "mp3": "https://naedist.animemusicquiz.com/zm41dm.mp3"
+    },
+	{
+        "id": 75,
+        "anime": "Transformers Animated OP",
+        "name": "\"TRANSFORMERS EVO.\" by JAM Project",
+        "video": "https://files.catbox.moe/mx2jui.webm",
+        "mp3": "https://files.catbox.moe/5oqr0q.mp3"
+    },
+	{
+        "id": 76,
+        "anime": "Cardfight!! Vanguard OP 1",
+        "name": "\"Vanguard\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/hvotss.webm",
+        "mp3": "https://naedist.animemusicquiz.com/sb8p2m.mp3"
+    },
+	{
+        "id": 77,
+        "anime": "Super Robot Taisen Z2: Hakai-hen OP",
+        "name": "\"NOAH\" by JAM Project",
+        "video": "https://files.catbox.moe/16qiim.webm",
+        "mp3": "https://files.catbox.moe/7bz36v.mp3"
+    },
+	{
+        "id": 78,
+        "anime": "Super Robot Taisen Z2: Hakai-hen ED",
+        "name": "\"Negai\" by JAM Project",
+        "video": "https://files.catbox.moe/owuxl4.webm",
+        "mp3": "https://files.catbox.moe/nndy3g.mp3"
+    },
+	{
+        "id": 79,
+        "anime": "Senjou no Valkyria 3: Ta ga Tame no Juusou EP 2 Insert Song",
+        "name": "\"Kaze o Ou Heishi no Uta\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/4luky1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/mpn37s.mp3"
+    },
+	{
+        "id": 80,
+        "anime": "Cardfight!! Vanguard OP 2",
+        "name": "\"Believe in my existence\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/m939oo.webm",
+        "mp3": "https://naedist.animemusicquiz.com/tj6gdi.mp3"
+    },
+	{
+        "id": 81,
+        "anime": "Muv-Luv Alternative (Xbox) OP",
+        "name": "\"Metamorphose\" by JAM Project",
+        "video": "https://erogemusicquiz.com/selfhoststorage/catbox/qqr47y.webm",
+        "mp3": "https://files.catbox.moe/ntcfz9.mp3"
+    },
+	{
+        "id": 82,
+        "anime": "Cardfight!! Vanguard: Asia Circuit-hen OP",
+        "name": "\"LIMIT BREAK\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/8mzvmt.webm",
+        "mp3": "https://naedist.animemusicquiz.com/moi11f.mp3"
+    },
+	{
+        "id": 83,
+        "anime": "Super Robot Taisen Z2: Saisei-hen OP",
+        "name": "\"Hagane no Resistance\" by JAM Project",
+        "video": "https://files.catbox.moe/eklj8l.webm",
+        "mp3": "https://files.catbox.moe/jm3d8n.mp3"
+    },
+	{
+        "id": 84,
+        "anime": "Super Robot Taisen Z2: Saisei-hen ED",
+        "name": "\"The advent of Genesis\" by JAM Project",
+        "video": "https://files.catbox.moe/mpxjw6.webm",
+        "mp3": "https://files.catbox.moe/6n5flo.mp3"
+    },
+	{
+        "id": 85,
+        "anime": "Super Robot Taisen OG II OP",
+        "name": "\"Wings of the legend\" by JAM Project",
+        "video": "https://files.catbox.moe/4t65c5.webm",
+        "mp3": "https://files.catbox.moe/nbztn4.mp3"
+    },
+	{
+        "id": 86,
+        "anime": "Super Robot Taisen OG II ED",
+        "name": "\"Babylon\" by JAM Project",
+        "video": "https://files.catbox.moe/x65lt7.webm",
+        "mp3": "https://files.catbox.moe/81nbe0.mp3"
+    },
+	{
+        "id": 87,
+        "anime": "Bakuman. 3rd Season ED 2",
+        "name": "\"Yume Sketch\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/rulyow.webm",
+        "mp3": "https://naedist.animemusicquiz.com/s18bf2.mp3"
+    },
+	{
+        "id": 88,
+        "anime": "Senyuu. OP",
+        "name": "\"THE MONSTERS\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/okcllg.webm",
+        "mp3": "https://naedist.animemusicquiz.com/mbeuu2.mp3"
+    },
+	{
+        "id": 89,
+        "anime": "Senyuu. ED",
+        "name": "\"Believe ~Eien no Link~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/27b3vb.webm",
+        "mp3": "https://naedist.animemusicquiz.com/pgz92y.mp3"
+    },
+	{
+        "id": 90,
+        "anime": "Uchuu Senkan Yamato 2199 ED 6",
+        "name": "\"R.I.P ~Tomo yo Shizuka ni Nemure~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/c3y07t.webm",
+        "mp3": "https://naedist.animemusicquiz.com/enkkrg.mp3"
+    },
+	{
+        "id": 91,
+        "anime": "Super Robot Taisen Z3: Jigoku-hen OP",
+        "name": "\"Rebellion ~Hangyaku no Senshitachi~\" by JAM Project",
+        "video": "https://files.catbox.moe/0gkmdg.webm",
+        "mp3": "https://files.catbox.moe/s9rg8j.mp3"
+    },
+	{
+        "id": 92,
+        "anime": "Super Robot Taisen Z3: Jigoku-hen ED",
+        "name": "\"PRAY FOR YOU\" by JAM Project",
+        "video": "https://files.catbox.moe/6u5vm5.webm",
+        "mp3": "https://files.catbox.moe/v9w6mf.mp3"
+    },
+	{
+        "id": 93,
+        "anime": "Nobunaga The Fool OP 2",
+        "name": "\"Breakthrough\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/uxxq74.webm",
+        "mp3": "https://naedist.animemusicquiz.com/5c192q.mp3"
+    },
+	{
+        "id": 94,
+        "anime": "Nobunaga The Fool EP 7 Insert Song",
+        "name": "\"Maverick ~Kakusei Sareshi Kemono~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/u674n2.webm",
+        "mp3": "https://naedist.animemusicquiz.com/uawjwg.mp3"
+    },
+	{
+        "id": 95,
+        "anime": "Garo: Honoo no Kokuin OP 1",
+        "name": "\"Honoo no Kokuin -DIVINE FLAME-\" by JAM Project",
+        "video": "https://nawdist.animemusicquiz.com/1b8jxd.webm",
+        "mp3": null
+    },
+	{
+        "id": 96,
+        "anime": "Garo: Honoo no Kokuin OP 2",
+        "name": "\"B.B.\" by JAM Project",
+        "video": "https://nawdist.animemusicquiz.com/evcxe6.webm",
+        "mp3": null
+    },
+	{
+        "id": 97,
+        "anime": "Cardfight!! Vanguard G OP 2",
+        "name": "\"Generation!\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/4699lx.webm",
+        "mp3": "https://naedist.animemusicquiz.com/u6roys.mp3"
+    },
+	{
+        "id": 98,
+        "anime": "Super Robot Taisen Z3: Tengoku-hen OP",
+        "name": "\"Kessen the Final Round\" by JAM Project",
+        "video": "https://files.catbox.moe/7zntkk.webm",
+        "mp3": "https://files.catbox.moe/lnyiaq.mp3"
+    },
+	{
+        "id": 99,
+        "anime": "Super Robot Taisen Z3: Tengoku-hen ED",
+        "name": "\"END OF HEAVEN\" by JAM Project",
+        "video": "https://files.catbox.moe/swfes5.webm",
+        "mp3": "https://files.catbox.moe/gl50bj.mp3"
+    },
+	{
+        "id": 100,
+        "anime": "One Punch Man OP",
+        "name": "\"THE HERO !! ~Ikareru Kobushi ni Hi o Tsukero~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/p5bjvw.webm",
+        "mp3": "https://naedist.animemusicquiz.com/9votrv.mp3"
+    },
+	{
+        "id": 101,
+        "anime": "Cyborg 009 VS Devilman OP",
+        "name": "\"Cyborg 009 ~Nine Cyborg Soldiers~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/zt2zuq.webm",
+        "mp3": "https://naedist.animemusicquiz.com/4x5dip.mp3"
+    },
+	{
+        "id": 102,
+        "anime": "Cyborg 009 VS Devilman ED",
+        "name": "\"DEVILMIND~Ai wa Chikara~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/3br2vu.webm",
+        "mp3": "https://naedist.animemusicquiz.com/xmfucs.mp3"
+    },
+	{
+        "id": 103,
+        "anime": "Garo: Guren no Tsuki OP 6",
+        "name": "\"Guren no Tsuki ~Kakusareshi Yami Monogatari~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/ae6u61.webm",
+        "mp3": "https://naedist.animemusicquiz.com/h2ebes.mp3"
+    },
+	{
+        "id": 104,
+        "anime": "Garo: Guren no Tsuki OP 7",
+        "name": "\"Gekka\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/f8ib7g.webm",
+        "mp3": "https://naedist.animemusicquiz.com/t1h596.mp3"
+    },
+	{
+        "id": 105,
+        "anime": "Super Robot Taisen OG: The Moon Dwellers OP",
+        "name": "\"Shining Storm ~Rekka no Gotoku~\" by JAM Project",
+        "video": "https://files.catbox.moe/3t7p8g.webm",
+        "mp3": "https://files.catbox.moe/5cftyn.mp3"
+    },
+	{
+        "id": 106,
+        "anime": "Super Robot Taisen OG: The Moon Dwellers ED",
+        "name": "\"Heaven's Door\" by JAM Project",
+        "video": "https://files.catbox.moe/cg24xd.webm",
+        "mp3": "https://files.catbox.moe/57lxr6.mp3"
+    },
+	{
+        "id": 107,
+        "anime": "Garo: Divine Flame OP",
+        "name": "\"Yaiba ~the divine blade~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/0rs76d.webm",
+        "mp3": "https://naedist.animemusicquiz.com/in93bg.mp3"
+    },
+	{
+        "id": 108,
+        "anime": "Super Robot Taisen V OP",
+        "name": "\"THE EXCEEDER\" by JAM Project",
+        "video": "https://files.catbox.moe/lhxfik.webm",
+        "mp3": "https://files.catbox.moe/e0zfp4.mp3"
+    },
+	{
+        "id": 109,
+        "anime": "Super Robot Taisen V ED",
+        "name": "\"NEW BLUE\" by JAM Project",
+        "video": "https://files.catbox.moe/zs4rk8.webm",
+        "mp3": "https://files.catbox.moe/3y8uqh.mp3"
+    },
+	{
+        "id": 110,
+        "anime": "Garo: Vanishing Line OP 1",
+        "name": "\"EMG\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/j9lsl8.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ia19vh.mp3"
+    },
+	{
+        "id": 111,
+        "anime": "Super Robot Taisen X OP",
+        "name": "\"Hagane no Warriors\" by JAM Project",
+        "video": "https://files.catbox.moe/s0u1mo.webm",
+        "mp3": "https://files.catbox.moe/hwtpoz.mp3"
+    },
+	{
+        "id": 112,
+        "anime": "Super Robot Taisen X ED",
+        "name": "\"The Oath ～Yoake no Chikai～\" by JAM Project",
+        "video": "https://files.catbox.moe/bj0pnd.webm",
+        "mp3": "https://files.catbox.moe/i5wh6z.mp3"
+    },
+	{
+        "id": 113,
+        "anime": "Usuzumizakura: Garo ED",
+        "name": "\"Hitohira\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/f9tter.webm",
+        "mp3": "https://naedist.animemusicquiz.com/0dbbvx.mp3"
+    },
+	{
+        "id": 114,
+        "anime": "One Punch Man 2nd Season OP",
+        "name": "\"Seijaku no Apostle\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/vfo7ja.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ejfvik.mp3"
+    },
+	{
+        "id": 115,
+        "anime": "Super Robot Taisen T OP",
+        "name": "\"Tread on the Tiger's Tail\" by JAM Project",
+        "video": "https://files.catbox.moe/q04nym.webm",
+        "mp3": "https://files.catbox.moe/qjsl19.mp3"
+    },
+	{
+        "id": 116,
+        "anime": "Super Robot Taisen T ED",
+        "name": "\"RESET\" by JAM Project",
+        "video": "https://files.catbox.moe/u7a7fa.webm",
+        "mp3": "https://files.catbox.moe/464rhs.mp3"
+    },
+	{
+        "id": 117,
+        "anime": "Super Robot Taisen DD OP 1",
+        "name": "\"D.D ~Dimension Driver~\" by JAM Project",
+        "video": "https://files.catbox.moe/mjixou.webm",
+        "mp3": "https://files.catbox.moe/j7wo1i.mp3"
+    },
+	{
+        "id": 118,
+        "anime": "One Punch Man: A Hero Nobody Knows OP",
+        "name": "\"Freaking out! 〜Fukkatsu no Oipanku〜\" by JAM Project",
+        "video": "https://www.youtube.com/watch?v=Euuza7THyAA",
+        "mp3": "https://files.catbox.moe/pqy536.mp3"
+    },
+	{
+        "id": 119,
+        "anime": "Battle Spirits: Saga Brave OP",
+        "name": "\"Returner ~Fukkatsu no Legend~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/6bs48b.webm",
+        "mp3": "https://naedist.animemusicquiz.com/rfl8b8.mp3"
+    },
+	{
+        "id": 120,
+        "anime": "Getter Robo Arc OP",
+        "name": "\"Bloodlines ~Unmei no Kettou~\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/9ay1t6.webm",
+        "mp3": "https://naedist.animemusicquiz.com/lj9g57.mp3"
+    },
+	{
+        "id": 121,
+        "anime": "Getter Robo Arc ED 1",
+        "name": "\"DRAGON 2021\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/i85hpl.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ly4wyw.mp3"
+    },
+	{
+        "id": 122,
+        "anime": "Getter Robo Arc ED 2",
+        "name": "\"STORM 2021\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/q8sr87.webm",
+        "mp3": "https://naedist.animemusicquiz.com/wtp4e7.mp3"
+    },
+	{
+        "id": 123,
+        "anime": "Getter Robo Arc ED 4",
+        "name": "\"Tomo yo\" by JAM Project",
+        "video": "https://naedist.animemusicquiz.com/7vhk2o.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ouxawo.mp3"
+    },
+	{
+        "id": 124,
+        "anime": "Super Robot Taisen 30 OP",
+        "name": "\"Drei Kreuz ~Hagane no Survivor~\" by JAM Project",
+        "video": "https://files.catbox.moe/kvqyb5.webm",
+        "mp3": "https://files.catbox.moe/0ieul6.mp3"
+    },
+	{
+        "id": 125,
+        "anime": "Super Robot Taisen 30 ED",
+        "name": "\"with love\" by JAM Project",
+        "video": "https://files.catbox.moe/834n32.webm",
+        "mp3": "https://files.catbox.moe/kg74ri.mp3"
+    },
+	{
+        "id": 126,
+        "anime": "Muv-Luv Alternative 2nd Season OP",
+        "name": "\"Akatsuki o Ute\" by JAM Project, Minami Kuribayashi",
+        "video": "https://naedist.animemusicquiz.com/xcyref.webm",
+        "mp3": "https://naedist.animemusicquiz.com/l5kzhk.mp3"
+    },
+	{
+        "id": 127,
+        "anime": "Super Robot Taisen DD OP 2",
+        "name": "\"ONE CHANCE!\" by JAM Project",
+        "video": "https://files.catbox.moe/25h0fx.webm",
+        "mp3": "https://files.catbox.moe/2uhtvr.mp3"
+    }
+]
